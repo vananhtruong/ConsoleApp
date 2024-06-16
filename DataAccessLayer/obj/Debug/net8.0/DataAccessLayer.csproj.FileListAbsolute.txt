@@ -1,0 +1,15 @@
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\bin\Debug\net8.0\BussinessObject.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\bin\Debug\net8.0\BussinessObject.pdb
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

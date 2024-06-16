@@ -1,0 +1,17 @@
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\bin\Debug\net8.0\Repositories.deps.json
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\bin\Debug\net8.0\Repositories.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\bin\Debug\net8.0\Repositories.pdb
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\bin\Debug\net8.0\BussinessObject.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\bin\Debug\net8.0\BussinessObject.pdb
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\Repositories.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\Repositories.pdb
+E:\Code\ConsoleApp\PRN212Assignment01WPF\AnhTV_SE17D03_A01\Repositories\obj\Debug\net8.0\ref\Repositories.dll

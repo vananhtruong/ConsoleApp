@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDA8605-0F6F-436F-A7E9-CDFFE16694E4}|WPFApp\\WPFApp.csproj|e:\\code\\consoleapp\\prn212assignment01wpf\\anhtv_se17d03_a01\\wpfapp\\roommanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDA8605-0F6F-436F-A7E9-CDFFE16694E4}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\roommanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDA8605-0F6F-436F-A7E9-CDFFE16694E4}|WPFApp\\WPFApp.csproj|e:\\code\\consoleapp\\prn212assignment01wpf\\anhtv_se17d03_a01\\wpfapp\\roommanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACDA8605-0F6F-436F-A7E9-CDFFE16694E4}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\roommanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDA8605-0F6F-436F-A7E9-CDFFE16694E4}|WPFApp\\WPFApp.csproj|e:\\code\\consoleapp\\prn212assignment01wpf\\anhtv_se17d03_a01\\wpfapp\\addeditroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDA8605-0F6F-436F-A7E9-CDFFE16694E4}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDA8605-0F6F-436F-A7E9-CDFFE16694E4}|WPFApp\\WPFApp.csproj|e:\\code\\consoleapp\\prn212assignment01wpf\\anhtv_se17d03_a01\\wpfapp\\addeditcustomerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDA8605-0F6F-436F-A7E9-CDFFE16694E4}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditcustomerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 733,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomManagement.xaml",
+              "DocumentMoniker": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\WPFApp\\RoomManagement.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\RoomManagement.xaml",
+              "ToolTip": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\WPFApp\\RoomManagement.xaml",
+              "RelativeToolTip": "WPFApp\\RoomManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T17:40:13.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomManagement.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\WPFApp\\RoomManagement.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\RoomManagement.xaml.cs",
+              "ToolTip": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\WPFApp\\RoomManagement.xaml.cs",
+              "RelativeToolTip": "WPFApp\\RoomManagement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:42:05.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditRoomDialog.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\WPFApp\\AddEditRoomDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditRoomDialog.xaml.cs",
+              "ToolTip": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\WPFApp\\AddEditRoomDialog.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AddEditRoomDialog.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:13:56.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEditCustomerDialog.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "ToolTip": "E:\\Code\\ConsoleApp\\PRN212Assignment01WPF\\AnhTV_SE17D03_A01\\WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:13:55.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
